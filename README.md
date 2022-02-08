@@ -1,9 +1,9 @@
-## Olá! Eu sou o Natan Cavalcanti 🖐️
+## Olá! Eu sou o Natan Maciel Cavalcanti 🖐️
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511968279499)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-maciel-cavalcanti-83694520b/)
 
-![Cavalcanti GitHub stats](https://github-readme-stats.vercel.app/api?username=natanmacielc&show_icons=true&theme=dracula&count_private=true)
+![Cavalcanti GitHub stats](https://github-readme-stats.vercel.app/api?username=natanmacielc&show_icons=true&theme=dark&count_private=true)
 
 ## Especializações
 
