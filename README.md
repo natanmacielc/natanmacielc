@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-maciel-cavalcanti-83694520b/)
 <br/> My react portfolio
 <br/>
-[![Portfolio](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoColor=white)](https://main.d1wyjdsgdx1xwr.amplifyapp.com/)
+[![Portfolio](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoColor=white)](http://www.natanmaciel.com/)
 ![Cavalcanti GitHub stats](https://github-readme-stats.vercel.app/api?username=natanmacielc&show_icons=true&theme=dark&count_private=true) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanmacielc&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
