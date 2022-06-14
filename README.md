@@ -5,7 +5,7 @@
 <br/> My react portfolio
 <br/>
 [![Portfolio](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoColor=white)](http://www.natanmaciel.com/)
-![Cavalcanti GitHub stats](https://github-readme-stats.vercel.app/api?username=natanmacielc&show_icons=true&theme=dark&count_private=true) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanmacielc&layout=compact&theme=dark&hide_border=true" /></a> |
+![Cavalcanti GitHub stats](https://github-readme-stats.vercel.app/api?username=natanmacielc&show_icons=true&theme=dark&count_private=true) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanmacielc&hide=python&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
