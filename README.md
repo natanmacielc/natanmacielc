@@ -12,7 +12,7 @@ My goal is to build products and platforms that solve real-world problems by com
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511958337983)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-maciel-cavalcanti-83694520b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://www.nimbos.solutions/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://nimbos.solutions/)
 
 ---
 
